@@ -1,4 +1,4 @@
-package br.com.carneiro.bookstore.resource
+package br.com.carneiro.bookstore.web.rest
 
 import br.com.carneiro.bookstore.domain.Book
 import br.com.carneiro.bookstore.service.BookService
